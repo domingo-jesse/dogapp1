@@ -23,6 +23,7 @@ class ClicksPerYear {
 class _BottomNavigationBarExampleState
     extends State<BottomNavigationBarExample> {
   int _poocount = 0;
+
   int _peecount = 0;
   int _eatcount = 0;
   int _walkcount = 0;
