@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530237467439",
+    "firebase_url": "https://dogfeed-5f888.firebaseio.com",
+    "project_id": "dogfeed-5f888",
+    "storage_bucket": "dogfeed-5f888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530237467439:android:4b2f68a056b541a6540fda",
+        "android_client_info": {
+          "package_name": "com.example.dogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530237467439-qt3fvi0he7fprakv2390h8rcepeqh31o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYQ-G6i6VEj-2YoRQJYQwnOxN02ODDU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530237467439-qt3fvi0he7fprakv2390h8rcepeqh31o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
